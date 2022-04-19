@@ -79,3 +79,12 @@
 
 * https://petri.com/layer-by-layer-troubleshooting-cisco
 
+* https://github.com/rayiik/awesome-awk
+
+*
+
+
+## TOOLS ##
+
+* https://github.com/rayiik/owasp-mstg
+* 
